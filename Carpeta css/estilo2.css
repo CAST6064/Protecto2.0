@@ -1,0 +1,39 @@
+.container{
+    text-align: justify;
+    }
+    .consecuencias{
+        padding-top: 20px;
+        text-align: center;
+        color: darkgreen;
+    }
+    .diagnostico{
+    text-align: center;
+    color: darkgreen;
+    }
+    .tratamiento{
+        text-align: center;
+        color: darkgreen;
+        }
+    .fase{
+        text-align: center;
+        color: darkgreen;
+    }
+    .list-group-item{
+        text-align: justify;
+        border: black;
+        
+    }
+   
+    .mb-3{
+        margin-left: 100px;
+        margin-right: 100px;
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    
+    }
+    .Textofooter{
+        text-align: center;
+        background: black;
+        color: white;
+        
+    }
